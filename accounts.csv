@@ -1,0 +1,19 @@
+ID,username ,password,role
+1,teacher1,abc,librarian
+2,teacher2,abc,librarian
+3,teacher3,abc,librarian
+4,teacher4,abc,librarian
+5,teacher5,abc,librarian
+6,teacher6,abc,librarian
+7,teacher7,abc,librarian
+8,teacher8,abc,librarian
+9,teacher9,abc,librarian
+10,student1,def,student
+11,student2,def,student
+12,student3,def,student
+13,student4,def,student
+14,student5,def,student
+15,student6,def,student
+16,student7,def,student
+17,student8,def,student
+18,student9,def,student
