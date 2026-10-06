@@ -1,1 +1,1 @@
-LoanID,Username,ISBN,DateBorrowed,DueDate,DateReturned,Status
+LoanID,Username,ISBN,DateBorrowed,DueDate,DateReturned,Status,PaidStatus
